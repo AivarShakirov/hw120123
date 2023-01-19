@@ -1,0 +1,15 @@
+C:\Users\Айвар\Desktop\hw120123\obj\Debug\net7.0\hw120123.csproj.AssemblyReference.cache
+C:\Users\Айвар\Desktop\hw120123\obj\Debug\net7.0\hw120123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Айвар\Desktop\hw120123\obj\Debug\net7.0\hw120123.AssemblyInfoInputs.cache
+C:\Users\Айвар\Desktop\hw120123\obj\Debug\net7.0\hw120123.AssemblyInfo.cs
+C:\Users\Айвар\Desktop\hw120123\obj\Debug\net7.0\hw120123.csproj.CoreCompileInputs.cache
+C:\Users\Айвар\Desktop\hw120123\bin\Debug\net7.0\hw120123.exe
+C:\Users\Айвар\Desktop\hw120123\bin\Debug\net7.0\hw120123.deps.json
+C:\Users\Айвар\Desktop\hw120123\bin\Debug\net7.0\hw120123.runtimeconfig.json
+C:\Users\Айвар\Desktop\hw120123\bin\Debug\net7.0\hw120123.dll
+C:\Users\Айвар\Desktop\hw120123\bin\Debug\net7.0\hw120123.pdb
+C:\Users\Айвар\Desktop\hw120123\obj\Debug\net7.0\hw120123.dll
+C:\Users\Айвар\Desktop\hw120123\obj\Debug\net7.0\refint\hw120123.dll
+C:\Users\Айвар\Desktop\hw120123\obj\Debug\net7.0\hw120123.pdb
+C:\Users\Айвар\Desktop\hw120123\obj\Debug\net7.0\hw120123.genruntimeconfig.cache
+C:\Users\Айвар\Desktop\hw120123\obj\Debug\net7.0\ref\hw120123.dll
